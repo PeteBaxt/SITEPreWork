@@ -3,11 +3,11 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Peter Baxter**
 
-Time spent: **#** hours spent in total
+Time spent: **8** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/scandalous-malachite-diadem?path=index.html%3A28%3A8
 
 ## Required Functionality
 
