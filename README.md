@@ -38,9 +38,8 @@ The following **additional** features are implemented:
 - [x] Game modes implement different optional features and allow for different levels of difficulty
 
 ## Video Walkthrough (GIF)
-
+https://recordit.co/Ht4u80oHwM
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![] https://recordit.co/Ht4u80oHwM
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -59,7 +58,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/b0dd661092f6470193b0c042bdb3c608)
 
 
 ## License
